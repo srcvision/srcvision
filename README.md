@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurav Chaudhari</h1>
-<h3 align="center">🚀 MERN Stack Developer |💡 Tech Explorer | 🚀 Problem Solver</h3>
+<h3 align="center">🚀 MERN Stack Developer | 💡 Tech Explorer | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+Lover;Clean+Code+%F0%9F%92%AF;Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+Lover;Clean+Code+%F0%9F%92%AF;Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,8 +12,19 @@
 - 🎓 B.E. in Computer Science at **LJ University**, Ahmedabad  
 - 🔄 Switched from Electrical Engineering to follow my tech passion  
 - 🧠 Strong foundation in **React.js**, **Node.js**, and **Python**  
-- 📌 Love turning ideas into real-world apps with clean UI + powerful backend  
-- 🧪 Built apps like **JATAYU** 🚗 & **Face Recognition Attendance System** 🧠
+- 🧪 Built projects like **JATAYU 🚗** and **Face Recognition Attendance System 🧠**  
+- 💼 Passionate about building clean UIs & secure backend systems  
+- 📍 Based in **Ahmedabad, Gujarat, India**  
+- 📧 Reach me: **srchaudhari0806@gmail.com**
+
+---
+
+## 📜 Certifications
+
+| 📚 Course | 🏢 Platform | 🏆 Score |
+|----------|-------------|----------|
+| HTML, CSS, and JavaScript for Web Developers | Johns Hopkins University (Coursera) | ✅ 100% |
+| Exploratory Data Analysis for ML | IBM (Coursera) | ✅ 95% |
 
 ---
 
@@ -54,15 +65,19 @@
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Projects
 
-### 🚗 JATAYU – Ride Booking App  
+### 🚗 **JATAYU – Ride Booking App**  
 > MERN Stack | Google Maps API | JWT  
-- Real-time ride booking system with login, fare estimates & protected dashboards
+A full-stack ride-hailing platform with:
+- Real-time location tracking
+- Fare estimates using Google Maps
+- Role-based dashboards for users & captains
 
-### 🧠 Face Recognition Attendance System  
+### 🧠 **Face Recognition Attendance System**  
 > Python | OpenCV | Tkinter | Excel Automation  
-- Auto-detects student faces from webcam & fills attendance in Excel
+- Captures student faces via webcam  
+- Trains model and auto-marks attendance in Excel
 
 ---
 
@@ -75,7 +90,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurav-chaudhari-1ab838265/">
@@ -88,5 +103,6 @@
 
 ---
 
-> ✨ "Turning problems into clean, real-world tech solutions — one line of code at a time."
+> 💬 *"I don’t just write code — I build real-world solutions, one line at a time."*  
+⭐ *Open to collaboration, internships, and freelance opportunities.*
 
