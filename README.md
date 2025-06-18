@@ -1,91 +1,92 @@
-<h1 align="center">👋 Hey there, I’m **Saurav Chaudhari**</h1>
+<h1 align="center">Hi 👋, I'm Saurav Chaudhari</h1>
+<h3 align="center">🚀 MERN Stack Developer | 🐍 Python Enthusiast | 🔥 Always Building</h3>
 
 <p align="center">
-  🧑‍💻 Full Stack Developer | 💡 Tech Explorer | 🚀 Problem Solver  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=MERN+Stack+%F0%9F%9A%80+Developer;Python+Automation+Enthusiast+%F0%9F%90%8D;Building+Smart+Apps+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Python+Project+Builder;React+%7C+Node+%7C+MongoDB+Lover;Clean+Code+%F0%9F%92%AF;Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🔍 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.E. in Computer Science** at **LJ University**  
-- 🛠 Switched from Electrical Engineering due to passion for tech  
-- 🌍 Based in **Ahmedabad, Gujarat, India**  
-- 💡 Quick learner with love for real‑world, user‑centric solutions
-
----
-
-## 🧰 Tech Stack
-
-### ⚙️ **Frontend**
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="30" /> React.js • <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Typescript_logo_2020.svg" alt="Typescript" width="30"/> TypeScript • HTML5 • CSS3 • TailwindCSS • Bootstrap
-
-### 🔧 **Backend & APIs**
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="30" /> Node.js • Express.js • <img src="https://cdn.worldvectorlogo.com/logos/dot-net-6.svg" alt=".NET" width="30" /> .NET (learning…) • REST API • JWT Auth
-
-### 📦 **Database & Data**
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="30" /> MongoDB • <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="30" /> SQLite • Python Automation & OpenCV
-
-### 🛠 **Tools & Dev**
-VS Code • Git & GitHub • Postman • Docker (learning…)  
-CI/CD • Agile • Jira (learning…)
+- 🎓 B.E. in Computer Science at **LJ University**, Ahmedabad  
+- 🔄 Switched from Electrical Engineering to follow my tech passion  
+- 🧠 Strong foundation in **React.js**, **Node.js**, and **Python**  
+- 📌 Love turning ideas into real-world apps with clean UI + powerful backend  
+- 🧪 Built apps like **JATAYU** 🚗 & **Face Recognition Attendance System** 🧠
 
 ---
 
-## 🌟 Featured Projects
+## 🧰 My Tech Stack
 
-### 🧠 **Face Recognition Attendance System**  
-*Python • OpenCV • Tkinter*  
-- Automated attendance marking with face detection  
-- Stored records in Excel  
-- 💡 Improved accuracy by capturing multi-angle samples
+### 💻 Languages & Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+</p>
 
-### 🚗 **JATAYU – Ride‑Hailing App**  
-*MERN Stack • Google Maps API • JWT*  
-- Real-time location tracking & OTP-based user verification  
-- Split roles: Users & Captains dashboards  
-- Implemented secure auth and dynamic fare calculations
+### ⚛️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+</p>
 
----
+### 🖥️ Backend
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+</p>
 
-## 📜 Certifications & Learning
+### 🛢️ Database
+<p>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+</p>
 
-| Course | Platform | Year |
-|-------|----------|------|
-| Web Development (HTML, CSS, JS) | Johns Hopkins (Coursera) | 2023 |
-| Exploratory Data Analysis (Python) | IBM (Coursera) | 2023 |
-| Introduction to .NET & C# | Microsoft Learn (self-study) | 2024 |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srcvision&show_icons=true&theme=tokyonight" width="290"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcvision&layout=compact&theme=tokyonight" width="290"/>
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-## 📬 Get in Touch
+## 🚀 Highlight Projects
+
+### 🚗 JATAYU – Ride Booking App  
+> MERN Stack | Google Maps API | JWT  
+- Real-time ride booking system with login, fare estimates & protected dashboards
+
+### 🧠 Face Recognition Attendance System  
+> Python | OpenCV | Tkinter | Excel Automation  
+- Auto-detects student faces from webcam & fills attendance in Excel
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srcvision&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcvision&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurav-chaudhari-1ab838265/">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:srchaudhari0806@gmail.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="30" alt="Email" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
-📍 Ahmedabad, Gujarat, India
-
 ---
 
-> 💡 “I don’t just write code— I build solutions that solve real problems, one line at a time.”
+> ✨ "Turning problems into clean, real-world tech solutions — one line of code at a time."
 
-⭐ Ready for collaboration, open source contributions, or next big challenge. Let’s connect!
