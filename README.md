@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurav Chaudhari</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🐍 Python Enthusiast | 🔥 Always Building</h3>
+<h3 align="center">🚀 MERN Stack Developer |💡 Tech Explorer | 🚀 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Python+Project+Builder;React+%7C+Node+%7C+MongoDB+Lover;Clean+Code+%F0%9F%92%AF;Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+Lover;Clean+Code+%F0%9F%92%AF;Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
